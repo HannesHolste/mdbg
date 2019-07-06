@@ -37,7 +37,7 @@
     "level": "^4.0.0",
     "node-fetch": "^2.3.0",
     "pinyin-split": "^1.27.0",
-    "pinyin-utils": "^1.14.0",
+    "pinyin-utils": "^1.49.0",
     "sublevel": "^2.4.0",
     "zhuyin": "^1.10.0"
   },
